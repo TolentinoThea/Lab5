@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<style>
+
 <meta charset="utf-8">
 
 </head>
@@ -25,7 +25,7 @@ Smile and just breathe. </br> </p>
  
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-</style>
+
 </head>
 <body>
 
