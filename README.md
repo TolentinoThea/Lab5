@@ -3,61 +3,7 @@
 <head>
 <style>
 <meta charset="utf-8">
-<title>Simple Selectors</title>
-<style>
 
-
-/* all h2 elements */
-h2 {
-  color: #d966ff;
-  text-align: center;
-}
-
-
-/* all with class="highlight" */
-.highlight {
-  font-size: 45px;
-  font-weight: bold;
-  font-style: italic;
-  background-color: #6666ff;
-  opacity: .6;
-}
-
-
-/* all p AND h1 elements */
-p, h1 {
-  color: black;
-  text-align: center;
-}
-body {
-    background-color: #ffe6cc;
-}
-
-h1 {
-    color: #ff6666;
-    text-align: center;
-	font-family: Lucida Calligraphy;
-
-}
-
-p {
-    font-family: Century;
-    font-size: 20px;
-}
-
-h2 {
-    color: #ffff99;
-	text-align: center;
-	font-family: Courier New;
-	font-size: 25px;
-}
-
-h4 {
-color:#1a53ff;
-text-align: center;
-}
-
-</style>
 </head>
 <body>
 
